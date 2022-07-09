@@ -5,4 +5,4 @@ npm install react-native-safe-area-context
 npm install @react-native-community/masked-view
 npm install react-native-maps
 npm add axios
-
+npm install @react-navigation/stack
